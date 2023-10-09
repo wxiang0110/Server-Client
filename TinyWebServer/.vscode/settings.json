@@ -1,0 +1,7 @@
+{
+    "workbench.editor.wrapTabs": true,
+    "files.associations": {
+        "ios": "cpp",
+        "xutility": "cpp"
+    }
+}

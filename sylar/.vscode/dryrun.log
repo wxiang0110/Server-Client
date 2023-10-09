@@ -1,0 +1,35 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'd:/RECENT/����/sylar'
+ 
+process_begin: CreateProcess(NULL, which g++, ...) failed.
+make.exe: Makefile:12: pipe: No such file or directory
+
+process_begin: CreateProcess(NULL, which gcc, ...) failed.
+make.exe: Makefile:12: pipe: No such file or directory
+
+if [ -d "build" ]; then \
+	cd build && make Makefile; \
+else \
+	mkdir build; \
+	cd build && cmake -DCMAKE_CXX_COMPILER:FILEPATH= -DCMAKE_C_COMPILER:FILEPATH= Makefile ..; \
+fi
+ 
+��ʱ��Ӧ�� -d��
+
+make.exe: *** [Makefile:12: Makefile] Error 255
+make.exe: Failed to remake makefile 'Makefile'.
+
+process_begin: CreateProcess(NULL, which g++, ...) failed.
+make.exe: Makefile:4: pipe: No error
+
+process_begin: CreateProcess(NULL, which gcc, ...) failed.
+make.exe: Makefile:4: pipe: No error
+
+if [ -d "build" ]; then \
+	cd build && make -j4; \
+else \
+	mkdir build; \
+	cd build && cmake -DCMAKE_CXX_COMPILER:FILEPATH= -DCMAKE_C_COMPILER:FILEPATH= ..; \
+fi
+make.exe: Leaving directory 'd:/RECENT/����/sylar'
+ 

@@ -1,0 +1,116 @@
+[
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Channel.cpp.obj -c D:/Program/C++/WebServer/WebServer/Channel.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Channel.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Channel.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Epoll.cpp.obj -c D:/Program/C++/WebServer/WebServer/Epoll.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Epoll.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Epoll.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoop.cpp.obj -c D:/Program/C++/WebServer/WebServer/EventLoop.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/EventLoop.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/EventLoop.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoopThread.cpp.obj -c D:/Program/C++/WebServer/WebServer/EventLoopThread.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/EventLoopThread.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/EventLoopThread.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/EventLoopThreadPool.cpp.obj -c D:/Program/C++/WebServer/WebServer/EventLoopThreadPool.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/EventLoopThreadPool.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/EventLoopThreadPool.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/HttpData.cpp.obj -c D:/Program/C++/WebServer/WebServer/HttpData.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/HttpData.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/HttpData.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Main.cpp.obj -c D:/Program/C++/WebServer/WebServer/Main.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Main.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Main.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Server.cpp.obj -c D:/Program/C++/WebServer/WebServer/Server.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Server.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Server.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Timer.cpp.obj -c D:/Program/C++/WebServer/WebServer/Timer.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Timer.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Timer.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer",
+  "command": "g++  @CMakeFiles/WebServer.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/WebServer.dir/Util.cpp.obj -c D:/Program/C++/WebServer/WebServer/Util.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/Util.cpp",
+  "output": "WebServer/CMakeFiles/WebServer.dir/Util.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/AsyncLogging.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/AsyncLogging.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/AsyncLogging.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/AsyncLogging.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/CountDownLatch.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/CountDownLatch.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/CountDownLatch.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/CountDownLatch.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/FileUtil.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/FileUtil.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/FileUtil.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/FileUtil.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/LogFile.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/LogFile.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/LogFile.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/LogFile.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/Logging.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/Logging.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/Logging.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/Logging.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/LogStream.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/LogStream.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/LogStream.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/LogStream.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base",
+  "command": "g++  @CMakeFiles/libserver_base.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/libserver_base.dir/Thread.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/Thread.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/Thread.cpp",
+  "output": "WebServer/base/CMakeFiles/libserver_base.dir/Thread.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/base/tests",
+  "command": "g++  @CMakeFiles/LoggingTest.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj -c D:/Program/C++/WebServer/WebServer/base/tests/LoggingTest.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/base/tests/LoggingTest.cpp",
+  "output": "WebServer/base/tests/CMakeFiles/LoggingTest.dir/LoggingTest.cpp.obj"
+},
+{
+  "directory": "D:/Program/C++/WebServer/build/WebServer/tests",
+  "command": "g++  @CMakeFiles/HTTPClient.dir/includes_CXX.rsp -g -Wall -std=c++11 -D_PTHREADS -Wno-unused-parameter -O0 -o CMakeFiles/HTTPClient.dir/HTTPClient.cpp.obj -c D:/Program/C++/WebServer/WebServer/tests/HTTPClient.cpp",
+  "file": "D:/Program/C++/WebServer/WebServer/tests/HTTPClient.cpp",
+  "output": "WebServer/tests/CMakeFiles/HTTPClient.dir/HTTPClient.cpp.obj"
+}
+]

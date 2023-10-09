@@ -1,0 +1,79 @@
+Date : 2023-09-10 16:05:31
+Directory : d:\RECENT\校招\技术\Program\TinyWebServer
+Total : 39 files,  3269 codes, 214 comments, 484 blanks, all 3967 lines
+
+Languages
++--------------+------------+------------+------------+------------+------------+
+| language     | files      | code       | comment    | blank      | total      |
++--------------+------------+------------+------------+------------+------------+
+| C++          |         16 |      2,368 |        145 |        311 |      2,824 |
+| C            |          2 |        408 |         66 |         38 |        512 |
+| Markdown     |          9 |        274 |          0 |        102 |        376 |
+| HTML         |          9 |        175 |          2 |         18 |        195 |
+| Makefile     |          2 |         43 |          0 |         14 |         57 |
+| Shell Script |          1 |          1 |          1 |          1 |          3 |
++--------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                        | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                           |         39 |      3,269 |        214 |        484 |      3,967 |
+| . (Files)                                                                   |          8 |        745 |         83 |        175 |      1,003 |
+| CGImysql                                                                    |          3 |        166 |          6 |         46 |        218 |
+| http                                                                        |          3 |        795 |         16 |         52 |        863 |
+| lock                                                                        |          2 |        110 |          6 |         12 |        128 |
+| log                                                                         |          4 |        369 |         22 |         67 |        458 |
+| root                                                                        |         10 |        185 |          2 |         19 |        206 |
+| test_pressure                                                               |          4 |        463 |         66 |         58 |        587 |
+| test_pressure (Files)                                                       |          1 |         23 |          0 |         11 |         34 |
+| test_pressure\webbench-1.5                                                  |          3 |        440 |         66 |         47 |        553 |
+| threadpool                                                                  |          2 |        152 |          2 |         14 |        168 |
+| timer                                                                       |          3 |        284 |         11 |         41 |        336 |
++-----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| filename                                                                    | language     | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------+--------------+------------+------------+------------+------------+
+| d:\RECENT\校招\技术\Program\TinyWebServer\CGImysql\README.md                    | Markdown     |         11 |          0 |          3 |         14 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\CGImysql\sql_connection_pool.cpp      | C++          |        108 |          5 |         30 |        143 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\CGImysql\sql_connection_pool.h        | C++          |         47 |          1 |         13 |         61 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\README.md                             | Markdown     |        198 |          0 |         67 |        265 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\build.sh                              | Shell Script |          1 |          1 |          1 |          3 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\config.cpp                            | C++          |         65 |         10 |         11 |         86 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\config.h                              | C++          |         22 |         10 |         15 |         47 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\http\README.md                        | Markdown     |          6 |          0 |          1 |          7 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\http\http_conn.cpp                    | C++          |        648 |         16 |         39 |        703 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\http\http_conn.h                      | C++          |        141 |          0 |         12 |        153 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\lock\README.md                        | Markdown     |          6 |          0 |          6 |         12 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\lock\locker.h                         | C++          |        104 |          6 |          6 |        116 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\log\README.md                         | Markdown     |          8 |          0 |          2 |         10 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\log\block_queue.h                     | C++          |        171 |         13 |         29 |        213 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\log\log.cpp                           | C++          |        134 |          6 |         25 |        165 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\log\log.h                             | C++          |         56 |          3 |         11 |         70 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\main.cpp                              | C++          |         25 |          9 |         12 |         46 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\makefile                              | Makefile     |         11 |          0 |          5 |         16 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\README.md                        | Markdown     |         10 |          0 |          1 |         11 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\fans.html                        | HTML         |         14 |          1 |          1 |         16 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\judge.html                       | HTML         |         22 |          0 |          5 |         27 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\log.html                         | HTML         |         20 |          0 |          2 |         22 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\logError.html                    | HTML         |         22 |          0 |          2 |         24 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\picture.html                     | HTML         |         14 |          1 |          1 |         16 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\register.html                    | HTML         |         20 |          0 |          1 |         21 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\registerError.html               | HTML         |         21 |          0 |          2 |         23 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\video.html                       | HTML         |         16 |          0 |          2 |         18 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\root\welcome.html                     | HTML         |         26 |          0 |          2 |         28 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\test_pressure\README.md               | Markdown     |         23 |          0 |         11 |         34 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\test_pressure\webbench-1.5\Makefile   | Makefile     |         32 |          0 |          9 |         41 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\test_pressure\webbench-1.5\socket.c   | C            |         38 |         13 |          8 |         59 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\test_pressure\webbench-1.5\webbench.c | C            |        370 |         53 |         30 |        453 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\threadpool\README.md                  | Markdown     |          6 |          0 |          9 |         15 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\threadpool\threadpool.h               | C++          |        146 |          2 |          5 |        153 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\timer\README.md                       | Markdown     |          6 |          0 |          2 |          8 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\timer\lst_timer.cpp                   | C++          |        203 |          6 |         16 |        225 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\timer\lst_timer.h                     | C++          |         75 |          5 |         23 |        103 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\webserver.cpp                         | C++          |        359 |         48 |         50 |        457 |
+| d:\RECENT\校招\技术\Program\TinyWebServer\webserver.h                           | C++          |         64 |          5 |         14 |         83 |
+| Total                                                                       |              |      3,269 |        214 |        484 |      3,967 |
++-----------------------------------------------------------------------------+--------------+------------+------------+------------+------------+

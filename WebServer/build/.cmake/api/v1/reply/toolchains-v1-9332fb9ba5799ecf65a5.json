@@ -1,0 +1,89 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/c++",
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/c++/x86_64-w64-mingw32",
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include/c++/backward",
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include",
+						"S:/StrawberryPerl/c/include",
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0/include-fixed",
+						"S:/StrawberryPerl/c/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"S:/StrawberryPerl/c/lib/gcc/x86_64-w64-mingw32/8.3.0",
+						"S:/StrawberryPerl/c/lib/gcc",
+						"S:/StrawberryPerl/c/x86_64-w64-mingw32/lib",
+						"S:/StrawberryPerl/c/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "g++",
+				"version" : "8.3.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "S:/StrawberryPerl/c/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

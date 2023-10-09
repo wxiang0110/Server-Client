@@ -1,0 +1,2 @@
+S:/StrawberryPerl/c/bin/ar.exe qc libserver_base.a CMakeFiles/libserver_base.dir/AsyncLogging.cpp.obj CMakeFiles/libserver_base.dir/CountDownLatch.cpp.obj CMakeFiles/libserver_base.dir/FileUtil.cpp.obj CMakeFiles/libserver_base.dir/LogFile.cpp.obj CMakeFiles/libserver_base.dir/Logging.cpp.obj CMakeFiles/libserver_base.dir/LogStream.cpp.obj CMakeFiles/libserver_base.dir/Thread.cpp.obj
+S:/StrawberryPerl/c/bin/ranlib.exe libserver_base.a
